@@ -10,7 +10,10 @@ public class DebugConsole : MonoBehaviour
 
     private void Start() { OnLogText += AddText; }
 
-    private void AddText(string obj) { debugText.text += $"{obj}\n"; }
+    private void AddText(string obj)
+    {
+        UnityMainThreadDispatcher.Instance().Enqueue(() => { debugText.text += $"{obj}\n"; });
+    }
 
     public static Action<string> OnLogText;
 
