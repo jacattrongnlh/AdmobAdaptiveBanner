@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 1bbbbfb934667a4458d42c1c2637a84a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7d8a7a00057f30647978196ff7b61192, type: 3}
+  - {fileID: 21300000, guid: 023a8080f5bc22846a973fa9ac8d62d4, type: 3}
+  - {fileID: 21300000, guid: 726ad811ea7c5c04d9a2d771085d15c3, type: 3}
+  - {fileID: 21300000, guid: 63072ea163e420743b551ebf31cd3fe2, type: 3}
+  - {fileID: 21300000, guid: e34931b1182a1ad4ba11c0db18b21965, type: 3}
+  - {fileID: 21300000, guid: e4d1cbb15f395124189667bfbe8c6dce, type: 3}
+  - {fileID: 21300000, guid: 9e83abe2f39b2914ab966c3b3745f5fe, type: 3}
+  - {fileID: 21300000, guid: 6dab7af34e445724b9939cca09f43c39, type: 3}
+  - {fileID: 21300000, guid: 40e6be1457d131148a1b030e36f502c9, type: 3}
+  - {fileID: 21300000, guid: 516c46342dee9b5409da3bf82a1d07a0, type: 3}
+  - {fileID: 21300000, guid: 077d2fa47da805a41b76d626416b79ee, type: 3}
+  - {fileID: 21300000, guid: 98118575fe6c278409e1772734099f5a, type: 3}
+  - {fileID: 21300000, guid: a9085447a60b3b04a83fc3d4e06a1a7c, type: 3}
+  - {fileID: 21300000, guid: 593103c7ff349c349bb96dc538282555, type: 3}
+  - {fileID: 21300000, guid: 5ed88918e6d08c3489e3fc8807ea93e2, type: 3}
+  - {fileID: 21300000, guid: 05059428991bb5947b67afd3a874a6c0, type: 3}
+  - {fileID: 21300000, guid: cad21a4866cf75a45a04aeceb45b68e6, type: 3}
+  - {fileID: 21300000, guid: 06930b684f2566a41a8d2a9cccb054ae, type: 3}
+  - {fileID: 21300000, guid: 5405dbc80f794ba4392995db84a482b5, type: 3}
+  - {fileID: 21300000, guid: 60094c99e7dc9624f8a4fda955967ada, type: 3}
+  - {fileID: 21300000, guid: 06d027a96358ffa489dec1764926d793, type: 3}
+  - {fileID: 21300000, guid: 7aebfdc9684a6134797fb4733a176b42, type: 3}
+  - {fileID: 21300000, guid: 21b1b43a50e9f954a90a0a4be17e2968, type: 3}
+  - {fileID: 21300000, guid: 0a318d4af5b807f42ba6a01404ede18c, type: 3}
+  - {fileID: 21300000, guid: 01a1540c01afb2a4bb39a6478c0d3698, type: 3}
+  - {fileID: 21300000, guid: 7e8a594c2899b064dac9ea98aaa499de, type: 3}
+  - {fileID: 21300000, guid: cdbbc55c9256d6c458deae2297854be5, type: 3}
+  - {fileID: 21300000, guid: 8584f62d89b76be409eedc1acbb9ac09, type: 3}
+  - {fileID: 21300000, guid: 8114c7adc72f5fb4fa524f479df4cc2c, type: 3}
+  - {fileID: 21300000, guid: 5750902e215bed8438c3fc5e28c06fc6, type: 3}
+  - {fileID: 21300000, guid: d05f296efc738bc4d9b56c6c48bbe670, type: 3}
+  - {fileID: 21300000, guid: ce7843bef5bbb4546859c7f3bd32ff73, type: 3}
+  - {fileID: 21300000, guid: 3399bfdebdad33c43b2461613c58ca16, type: 3}
+  - {fileID: 21300000, guid: 4f5dedbf95975214bae03fcee3ca37f9, type: 3}
+  - {fileID: 21300000, guid: f200b1efd0d592d4db719fa02dd3fef2, type: 3}
+  - {fileID: 21300000, guid: 1e1a7cef27adf8a49a785c6c6b3bbd40, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 362948644_2505203436284605_7676977073344156136_n 2
+  - Screenshot 2023-08-17 085845
+  - Screenshot 2023-08-16 113014
+  - 362948644_2505203436284605_7676977073344156136_n 1
+  - Screenshot 2023-08-17 085843
+  - Screenshot 2023-08-16 105225
+  - animated-loading-icon-26 2
+  - 57lRcCp
+  - Screenshot 2023-08-16 113015
+  - 16-166597_pepe-png 2
+  - 57lRcCp 2
+  - 1131535 2
+  - Screenshot 2023-08-16 114804
+  - 57lRcCp 1
+  - Screenshot 2023-08-16 105227
+  - 48240810_456766174728538_3665150053309218816_n 1
+  - Screenshot 2023-08-16 114806
+  - animated-loading-icon-26 1
+  - 16-166597_pepe-png 1
+  - Screenshot 2023-08-17 085844
+  - Screenshot 2023-08-16 174403
+  - Screenshot 2023-09-07 103617
+  - 48240810_456766174728538_3665150053309218816_n
+  - Screenshot 2023-08-16 105226
+  - Screenshot 2023-08-16 114805
+  - 1131535
+  - Screenshot 2023-08-16 113016
+  - Screenshot 2023-09-07 103619
+  - animated-loading-icon-26
+  - 362948644_2505203436284605_7676977073344156136_n
+  - 1131535 1
+  - Screenshot 2023-08-16 174402
+  - 48240810_456766174728538_3665150053309218816_n 2
+  - Screenshot 2023-08-16 174404
+  - 16-166597_pepe-png
+  - Screenshot 2023-09-07 103618
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
